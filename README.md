@@ -3,7 +3,6 @@
 
 
 ## 🌱 Currently learning:
-- **next.js**
 - **docker**
 
 ## 💻 Tech Stack:
